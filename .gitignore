@@ -1,0 +1,65 @@
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.usermd
+*.userprefs
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Xx]64/
+[Xx]86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bbin/
+bin/
+obj/
+/build/
+
+## Visual Studio cache and tooling
+.vs/
+/.vs/
+Generated_Files/
+_ReSharper*/
+*.[Cc]hanges
+*.cache
+*.lksh
+*.suo
+*.util
+*.vshost.exe
+*.vshost.exe.manifest
+*.vsix
+*.csproj.user
+*.userosscache
+*.sln.DotSettings.user
+
+## .NET Core / ASP.NET Core secrets and configurations
+appsettings.Development.json
+appsettings.Local.json
+.microsoft.dotnet.secretmanager/
+secrets.json
+
+## Rider / JetBrains IDEs
+.idea/
+*.sln.iml
+
+## VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+## Node / Frontend (If your GUI or API uses npm packages)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+## OS-generated files
+.DS_Store
+Thumbs.db
+## Docs
+*.txt
